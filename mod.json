@@ -1,0 +1,17 @@
+{
+	"geode": "6.0.0-alpha.1",
+	"gd": {
+		"win": "2.2091",
+		"android": "2.2091",
+		"mac": "2.2091",
+		"ios": "2.2091"
+	},
+	"id": "tyegurr.uberbuild",
+	"name": "Uberbuild",
+	"version": "v1.0.0",
+	"developer": "Tyegurr",
+	"description": "new editor mod hit the index smh",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	}
+}
